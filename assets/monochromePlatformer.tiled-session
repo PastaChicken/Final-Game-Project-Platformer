@@ -1,0 +1,121 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmj",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 2.97
+        },
+        "#MonoChrome-TileSet": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2.3978
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmj": {
+            "scale": 1.52,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 186.1842105263158,
+                "y": 92.10526315789474
+            }
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmx": {
+            "scale": 1.52,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.86842105263156,
+                "y": 179.93421052631578
+            }
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 7/Pathfinder/assets/tiny-town-tileset.tmx": {
+            "scale": 0.930703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 337.37933350121716,
+                "y": 200.38613279610507
+            }
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 7/Pathfinder/assets/tiny-town-tileset.tmx#kenney-tiny-town": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 7/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.28,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 418.75,
+                "y": 298.046875
+            }
+        },
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 7/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "MonoChrome-Tileset.tsx": {
+            "scaleInDock": 2.1214,
+            "scaleInEditor": 2.43
+        },
+        "demoLayout.tmj": {
+            "scale": 0.92,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 523.9130434782609,
+                "y": 275.5434782608696
+            }
+        },
+        "demoLayout.tmj#MonoChrome-Tileset": {
+            "scaleInDock": 1
+        },
+        "monochrome_level_1.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.3802,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 689.1109942135719,
+                "y": 503.68227248816413
+            }
+        },
+        "monochrome_level_1.tmj#MonoChrome-Tileset": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/alfredobarragan/Desktop/CMPM 120/Week 7/PlatformImprovement/assets",
+    "last.imagePath": "/Users/alfredobarragan/Downloads/kenney_1-bit-platformer-pack/Tilemap",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmj"
+    ],
+    "project": "monochromePlatformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "monochrome_level_1.tmj",
+        "MonoChrome-Tileset.tsx",
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmj",
+        "/Users/alfredobarragan/Desktop/CMPM 120/Week 6/S5-StarterPlatform/StarterPlatformer/assets/platformer-level-1.tmx",
+        "demoLayout.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
